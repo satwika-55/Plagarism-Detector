@@ -46,6 +46,6 @@ This project is licensed under the MIT License.
 Feel free to submit issues and pull requests to improve the project!
 
 ## 🔗 Contact
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Email**: your-email@example.com
+- **GitHub**: [satwika-55](https://github.com/satwika-55)
+- **Email**: satwikadsa@gmail.com
 
